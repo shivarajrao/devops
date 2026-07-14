@@ -1,1 +1,2 @@
 Content of file3
+Updated in first branch
