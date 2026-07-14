@@ -1,5 +1,8 @@
 Content of file1
+
 Updated in master branch
 
 Updated in first branch
 
+
+Updated in second branch

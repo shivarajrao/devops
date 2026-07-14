@@ -1,2 +1,5 @@
 Content of file4
 Updated in first branch
+
+Updated in second branch
+
