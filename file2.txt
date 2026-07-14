@@ -1,1 +1,2 @@
 Content of file2
+Updated in second branch
