@@ -1,1 +1,2 @@
 Content of file1
+Updated in master branch
